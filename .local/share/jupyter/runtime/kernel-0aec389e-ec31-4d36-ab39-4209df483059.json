@@ -1,0 +1,13 @@
+{
+  "shell_port": 44325,
+  "iopub_port": 53247,
+  "stdin_port": 51639,
+  "control_port": 42209,
+  "hb_port": 47195,
+  "ip": "127.0.0.1",
+  "key": "98a1c1ce-776e9a33496e73e1e060740d",
+  "transport": "tcp",
+  "signature_scheme": "hmac-sha256",
+  "kernel_name": "python3",
+  "jupyter_session": "/home/jovyan/Ch03-linreg-lab.ipynb"
+}
