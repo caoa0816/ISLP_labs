@@ -50,3 +50,6 @@ share/python-wheels/
 .vscode/
 .idea/
 
+.local
+.Jupyter
+.ipython
