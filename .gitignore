@@ -52,5 +52,5 @@ share/python-wheels/
 
 .local*
 .Jupyter*
-.ipython*
+.ipython/profile_default/history.sqlite
 .*
