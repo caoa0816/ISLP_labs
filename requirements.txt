@@ -16,3 +16,4 @@ torchmetrics==1.4.0.post0
 ISLP==0.4.0
 jupyterlab
 nltk
+seaborn
